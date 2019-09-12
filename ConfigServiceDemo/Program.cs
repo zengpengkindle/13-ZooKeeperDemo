@@ -7,8 +7,8 @@ using ZooKeeperNet;
 
 namespace ConfigServiceDemo
 {
-
-
+  
+    //监控所有子节点
     class Program
     {
 
